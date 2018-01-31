@@ -1,0 +1,13 @@
+D:\Notes-LISA\ShoppingApp\DAL\bin\Release\DAL.dll.config
+D:\Notes-LISA\ShoppingApp\DAL\bin\Release\DAL.dll
+D:\Notes-LISA\ShoppingApp\DAL\bin\Release\DAL.pdb
+D:\Notes-LISA\ShoppingApp\DAL\bin\Release\Entities.dll
+D:\Notes-LISA\ShoppingApp\DAL\bin\Release\EntityFramework.dll
+D:\Notes-LISA\ShoppingApp\DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\Notes-LISA\ShoppingApp\DAL\bin\Release\Entities.pdb
+D:\Notes-LISA\ShoppingApp\DAL\bin\Release\EntityFramework.xml
+D:\Notes-LISA\ShoppingApp\DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Notes-LISA\ShoppingApp\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Notes-LISA\ShoppingApp\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Notes-LISA\ShoppingApp\DAL\obj\Release\DAL.dll
+D:\Notes-LISA\ShoppingApp\DAL\obj\Release\DAL.pdb

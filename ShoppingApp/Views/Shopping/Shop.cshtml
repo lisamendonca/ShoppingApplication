@@ -1,0 +1,199 @@
+﻿@{
+    ViewBag.Title = "Shop";
+}
+
+<script src="~/Scripts/lib/angular.min.js"></script>
+<script src="~/Scripts/AppController/ShopController.js"></script>
+<script src="~/Scripts/Factory/ShopFactory.js"></script>
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"
+        integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+        crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<div ng-app="myApp">
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Shopping App</a>
+            </div>
+        </div>
+    </nav>
+
+    <div ng-controller="ShopController" ng-init="display()">
+
+        @*<div>
+            <ul>
+                <li ng-repeat="p in Page">
+                    <div ng-repeat="UserControl in p.section">
+                        <p ng-bind-html="returnhtml(UserControl.control)"></p>
+                        
+                    </div>
+                </li>
+            </ul>
+        </div>*@
+
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Add new item</h3>
+                    </div>
+                    <form name="myform" novalidate>
+                        <div class="panel-body">
+                            <div class="col-md-4">
+                                Name:<input name="input" ng-model="data.name" ng-pattern="/^[a-zA-Z\s]*$/" ng-minlength="2" ng-maxlength="10" required />
+
+                                <div ng-show="myform.input.$error.pattern" style="color:red">
+                                    PLease enter only alphabets!!
+                                </div>
+                                <div ng-show="myform.input.$error.minlength" style="color:red">
+
+                                    Name cannot be so short
+                                </div>
+                                <div ng-show="myform.input.$error.maxlength" style="color:red">
+
+                                    Name cannot be so long
+                                </div>
+                                <div ng-show="(myform.input.$error.required)&& (myform.input.$dirty || IsSubmit) " style="color:red">
+
+                                    Required!!
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                Quantity:<input name="quantity1" ng-model="data.quantity" ng-pattern="/^[0-9]*$/" required />
+                                <div ng-show="myform.quantity1.$error.required && (myform.quantity1.$dirty || IsSubmit)" style="color:red"> Required!! </div>
+                                <div ng-show="myform.quantity1.$error.pattern " style="color:red"> Enter only numbers</div>
+                            </div>
+                            <div class="col-md-4">
+                                Unit Price:<input name="unitprice1" ng-model="data.unitprice" ng-pattern="/^[0-9]*$/" required />
+                                <div ng-show="(myform.unitprice1.$error.required) && (myform.unitprice1.$dirty || IsSubmit)" style="color:red">  Required!! </div>
+                                <div ng-show="myform.unitprice1.$error.pattern " style="color:red">  Enter only numbers </div>
+                            </div>
+                        </div>
+                        <div class="panel-footer">
+                            <button type="submit" class="btn btn-default" ng-click="addFoodItem()">
+                                Add New Food Item
+                            </button>
+
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="row" style="margin-top:25px;">
+
+
+            <table class="table table-bordered table-condensed">
+                <thead>
+                    <tr>
+                        <th> Inventory List</th>
+                    </tr>
+                    <tr>
+                        <td>Sr No</td>
+                        <td> Name</td>
+                        <td> Unit Price</td>
+                        <td> Quantity</td>
+                        <td> Total</td>
+                        <td> Action</td>
+                        <td> Select</td>
+
+                    </tr>
+                </thead>
+
+
+                <tr ng-repeat="d in Inventory">
+                    <td>
+                        {{$index +1}}
+                    </td>
+                    <td>
+
+                        <span ng-hide="d.EditClicked"> {{d.Name}}</span>
+                        <input ng-show="d.EditClicked" ng-model="d.Name" />
+                    </td>
+
+                    <td>
+                        <span ng-hide="d.EditClicked"> {{d.UnitPrice |currency :"Rs.":2}}</span>
+                        <input ng-show=" d.EditClicked" ng-model="d.UnitPrice" />
+
+                    </td>
+                    <td>
+                        <span ng-hide="d.EditClicked">{{d.Quantity}} </span>
+                        <input ng-show="d.EditClicked" ng-model="d.Quantity" />
+
+                    </td>
+                    <td>
+
+                        {{ data.Total=d.UnitPrice *d.Quantity |currency :"Rs.":2}}
+                    </td>
+                    <td>
+                        <button ng-click="Edit($index)" ng-hide="d.EditClicked">Edit</button>
+                        <button ng-click="Save($index)" ng-show="d.EditClicked">Save </button>
+                        <button ng-click="Delete($index)">Delete</button>
+                    </td>
+                    <td>
+                        <button ng-click="Purchase($index)">Purchase</button>
+                    </td>
+                </tr>
+            </table>
+
+
+
+            <table class="table table-bordered table-condensed">
+                <thead>
+                    <tr>
+                        <th>
+                            Purchase
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <td>Sr No</td>
+                        <td> Name</td>
+                        <td> Unit Price</td>
+                        <td> Quantity</td>
+                        <td> Total</td>
+                        <td> Action</td>
+                        <td> Select</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="p in Purchased">
+
+                        <td>
+                            {{$index+1}}
+                        </td>
+                        <td>
+                            <span>{{p.Name}}</span>
+                        </td>
+                        <td>
+                            <span>{{p.UnitPrice}}</span>
+                        </td>
+                        <td>
+                            <span>{{p.Quantity}}</span>
+                        </td>
+                        <td>
+                            <span>{{p.Total}}</span>
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+
+
+</div>
+
+

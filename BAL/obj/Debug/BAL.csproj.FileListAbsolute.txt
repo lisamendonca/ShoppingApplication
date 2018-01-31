@@ -1,0 +1,26 @@
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\bin\Debug\BAL.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\bin\Debug\BAL.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\bin\Debug\DAL.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\bin\Debug\Entities.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\bin\Debug\EntityFramework.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\bin\Debug\DAL.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\bin\Debug\Entities.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\bin\Debug\EntityFramework.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\obj\Debug\BAL.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\obj\Debug\BAL.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\bin\Debug\DAL.dll.config
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\Notes-LISA\ShoppingApp\BAL\bin\Debug\BAL.dll
+D:\Notes-LISA\ShoppingApp\BAL\bin\Debug\BAL.pdb
+D:\Notes-LISA\ShoppingApp\BAL\bin\Debug\DAL.dll
+D:\Notes-LISA\ShoppingApp\BAL\bin\Debug\Entities.dll
+D:\Notes-LISA\ShoppingApp\BAL\bin\Debug\EntityFramework.dll
+D:\Notes-LISA\ShoppingApp\BAL\bin\Debug\DAL.pdb
+D:\Notes-LISA\ShoppingApp\BAL\bin\Debug\DAL.dll.config
+D:\Notes-LISA\ShoppingApp\BAL\bin\Debug\Entities.pdb
+D:\Notes-LISA\ShoppingApp\BAL\bin\Debug\EntityFramework.xml
+D:\Notes-LISA\ShoppingApp\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Notes-LISA\ShoppingApp\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\Notes-LISA\ShoppingApp\BAL\obj\Debug\BAL.dll
+D:\Notes-LISA\ShoppingApp\BAL\obj\Debug\BAL.pdb

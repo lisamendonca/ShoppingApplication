@@ -1,0 +1,6 @@
+D:\Notes-LISA\ShoppingApp\Entities\bin\Release\Entities.dll
+D:\Notes-LISA\ShoppingApp\Entities\bin\Release\Entities.pdb
+D:\Notes-LISA\ShoppingApp\Entities\obj\Release\Entities.csprojResolveAssemblyReference.cache
+D:\Notes-LISA\ShoppingApp\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+D:\Notes-LISA\ShoppingApp\Entities\obj\Release\Entities.dll
+D:\Notes-LISA\ShoppingApp\Entities\obj\Release\Entities.pdb

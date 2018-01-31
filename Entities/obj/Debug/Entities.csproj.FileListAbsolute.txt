@@ -1,0 +1,12 @@
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\Entities\bin\Debug\Entities.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\Entities\bin\Debug\Entities.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\Entities\obj\Debug\Entities.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\Entities\obj\Debug\Entities.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Notes-LISA\ShoppingApp\Entities\bin\Debug\Entities.dll
+D:\Notes-LISA\ShoppingApp\Entities\bin\Debug\Entities.pdb
+D:\Notes-LISA\ShoppingApp\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Notes-LISA\ShoppingApp\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Notes-LISA\ShoppingApp\Entities\obj\Debug\Entities.dll
+D:\Notes-LISA\ShoppingApp\Entities\obj\Debug\Entities.pdb

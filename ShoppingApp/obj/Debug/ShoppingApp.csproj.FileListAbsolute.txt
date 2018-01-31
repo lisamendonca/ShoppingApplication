@@ -1,0 +1,66 @@
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.csprojResolveAssemblyReference.cache
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\ShoppingApp.dll.config
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\ShoppingApp.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\ShoppingApp.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\BAL.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\Entities.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\EntityFramework.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\EntityFramework.SqlServer.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Helpers.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Mvc.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Razor.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\DAL.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\BAL.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\Entities.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\EntityFramework.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\EntityFramework.SqlServer.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Razor.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Helpers.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\System.Web.Mvc.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\DAL.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\bin\DAL.dll.config
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.csproj.CoreCompileInputs.cache
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\ShoppingApp.dll.config
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\ShoppingApp.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\ShoppingApp.pdb
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\Entities.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\EntityFramework.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\EntityFramework.SqlServer.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\Newtonsoft.Json.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Net.Http.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Net.Http.Extensions.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Net.Http.Formatting.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Net.Http.Primitives.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Net.Http.WebRequest.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Helpers.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Mvc.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Razor.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.Deployment.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.Razor.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\Entities.pdb
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\EntityFramework.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\EntityFramework.SqlServer.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\Newtonsoft.Json.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Net.Http.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Net.Http.WebRequest.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Razor.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.Deployment.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Webpages.Razor.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Helpers.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\bin\System.Web.Mvc.xml
+D:\Notes-LISA\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.csprojResolveAssemblyReference.cache
+D:\Notes-LISA\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.csproj.CoreCompileInputs.cache
+D:\Notes-LISA\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.dll
+D:\Notes-LISA\ShoppingApp\ShoppingApp\obj\Debug\ShoppingApp.pdb

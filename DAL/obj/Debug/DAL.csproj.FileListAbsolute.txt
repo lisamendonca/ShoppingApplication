@@ -1,0 +1,26 @@
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\bin\Debug\DAL.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\bin\Debug\DAL.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\bin\Debug\Entities.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\bin\Debug\Entities.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\obj\Debug\DAL.dll
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\obj\Debug\DAL.pdb
+C:\Users\lmendonca\Documents\Visual Studio 2013\Projects\ShoppingApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Notes-LISA\ShoppingApp\DAL\bin\Debug\DAL.dll.config
+D:\Notes-LISA\ShoppingApp\DAL\bin\Debug\DAL.dll
+D:\Notes-LISA\ShoppingApp\DAL\bin\Debug\DAL.pdb
+D:\Notes-LISA\ShoppingApp\DAL\bin\Debug\Entities.dll
+D:\Notes-LISA\ShoppingApp\DAL\bin\Debug\EntityFramework.dll
+D:\Notes-LISA\ShoppingApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Notes-LISA\ShoppingApp\DAL\bin\Debug\Entities.pdb
+D:\Notes-LISA\ShoppingApp\DAL\bin\Debug\EntityFramework.xml
+D:\Notes-LISA\ShoppingApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Notes-LISA\ShoppingApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Notes-LISA\ShoppingApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Notes-LISA\ShoppingApp\DAL\obj\Debug\DAL.dll
+D:\Notes-LISA\ShoppingApp\DAL\obj\Debug\DAL.pdb
